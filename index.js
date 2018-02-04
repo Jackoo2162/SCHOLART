@@ -70,4 +70,4 @@ bot.on('message', function(message){
   //your code here
 });
 
-bot.login('NDA4ODY3Njk0MTQyNTU0MTIz.DVWTZA.PfLjmohOgE4pjSk430nHdg25Lx8');
+bot.login('');
